@@ -1,0 +1,1 @@
+inside empty directory created a file but no inserted any text. so , i am getting that nothing to be committed..... now i add text to this file,lets see what happens
